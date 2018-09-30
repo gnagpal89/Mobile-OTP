@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyContactsApp</string>
+    <string name="error_message">Error loading! Try again!</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="otp_message">Hi. Your OTP is: <b>%d</b></string>
+    <string name="send_otp">Send OTP</string>
+    <string name="cancel_send">Cancel</string>
+</resources>
